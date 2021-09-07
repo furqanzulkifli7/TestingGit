@@ -18,6 +18,12 @@ namespace ConsoleApplication1
             Console.WriteLine("Next Push v2");
 
 
+            int x = 30;
+
+            Console.WriteLine("The value of x is {0}", x);
+
+
+
         }
     }
 }
