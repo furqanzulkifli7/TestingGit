@@ -19,8 +19,12 @@ namespace ConsoleApplication1
 
             int a = 40;
             int x = 3;
+            int b = 30;
 
             Console.WriteLine("The value of x is {0} and a is {1}", x, a);
+
+            Console.WriteLine("The value of b is {0} and a is {1}", b, a);
+
 
 
 
