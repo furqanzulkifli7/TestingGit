@@ -15,6 +15,8 @@ namespace ConsoleApplication1
 
             Console.WriteLine("Just wanna push first");
 
+            Console.WriteLine("Next Push v2");
+
 
         }
     }
