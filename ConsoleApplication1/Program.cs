@@ -17,10 +17,10 @@ namespace ConsoleApplication1
 
             Console.WriteLine("Next Push v2");
 
+            int a = 40;
+            int x = 3;
 
-            int x = 30;
-
-            Console.WriteLine("The value of x is {0}", x);
+            Console.WriteLine("The value of x is {0} and a is {1}", x, a);
 
 
 
